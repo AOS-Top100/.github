@@ -7,6 +7,8 @@
 
 <br />
 
+###### (이름 가나다순입니다)  
+
 | 고수민 | 조정미 | 하도원 |                                                                                                               
 | :---: | :---: | :---: | 
 | <img width="200px" src="https://avatars.githubusercontent.com/u/72858039?v=4" /> | <img width="200px" src="https://avatars.githubusercontent.com/u/76805879?v=4" /> | <img width="200px" src="https://avatars.githubusercontent.com/u/70639119?v=4"/> |
